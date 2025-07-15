@@ -1,4 +1,4 @@
-package StepDefinitions.Flipkart;
+package StepDefinitions;
 
 import actoinDriver.Action;
 import base.BaseClass;

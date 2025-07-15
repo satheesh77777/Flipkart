@@ -19,7 +19,7 @@ public class HomePage {
         PageFactory.initElements(driver, this);
     }
     public boolean SearchProduct(String ProductName) throws InterruptedException {
-        System.out.println(action.getTitle(driver));
+//        System.out.println(action.getTitle(driver));
 //        driver.findElement(By.xpath("//input[@name='q']")).click();
         // Check if the search product box is displayed
         Thread.sleep(20000);

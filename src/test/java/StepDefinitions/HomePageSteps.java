@@ -1,4 +1,4 @@
-package StepDefinitions.Flipkart;
+package StepDefinitions;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
